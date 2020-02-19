@@ -96,6 +96,8 @@ def text_reply(msg):
     msg.user.send('%s: %s' % (msg.type, msg.text))
 
 @itchat.msg_register([PICTURE, RECORDING, ATTACHMENT, VIDEO])
+kevin
+
 def download_files(msg):
     msg.download(msg.fileName)
     typeSymbol = {
