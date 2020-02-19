@@ -2,11 +2,13 @@
 
 v2dsjkfhs
 sdfksdf
+aadasdfsdf
 [![Gitter][gitter-picture]][gitter] ![py27][py27] ![py35][py35] [English version][english-version]
 
 itchat是一个开源的微信个人号接口，使用python调用微信从未如此简单。
 
 使用不到三十行的代码，你就可以完成一个能够处理所有信息的微信机器人。
+
 
 当然，该api的使用远不止一个机器人，更多的功能等着你来发现，比如[这些][tutorial2]。
 
